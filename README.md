@@ -10,9 +10,11 @@
 
 ### [CVPR 2023 OpenCLIP] [Reproducible Scaling Laws for Contrastive Language-Image Learning](https://arxiv.org/abs/2212.07143)
 
-### [CVPR 2023 SigLIP] [Sigmoid Loss for Language Image Pre-Training](http://openaccess.thecvf.com/content/ICCV2023/html/Zhai_Sigmoid_Loss_for_Language_Image_Pre-Training_ICCV_2023_paper.html)
+### [CVPR 2023 FLIP] [Scaling Language-Image Pre-training via Masking](http://openaccess.thecvf.com/content/CVPR2023/html/Li_Scaling_Language-Image_Pre-Training_via_Masking_CVPR_2023_paper.html)
 
 ### [ICML 2023 BLIP-2] [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://proceedings.mlr.press/v202/li23q)
+
+### [ICCV 2023 SigLIP] [Sigmoid Loss for Language Image Pre-Training](http://openaccess.thecvf.com/content/ICCV2023/html/Zhai_Sigmoid_Loss_for_Language_Image_Pre-Training_ICCV_2023_paper.html)
 
 ### [ICLR 2024 DFN] [Data Filtering Networks](https://arxiv.org/abs/2309.17425)
 
