@@ -16,3 +16,6 @@
 
 <img width="1582" height="749" alt="image" src="https://github.com/user-attachments/assets/5908a50b-670f-4221-b73d-afb53ec5238c" />
 
+### [ICML 2023 BLIP-2] [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://proceedings.mlr.press/v202/li23q)
+
+<img width="1496" height="686" alt="image" src="https://github.com/user-attachments/assets/4437a5f6-80bc-4062-9381-28be7cc3bcc5" />
