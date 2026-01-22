@@ -1,4 +1,4 @@
-# Paper List for Medical Contrastive Language-Image Pre-Training
+# Paper List for Medical Vision-Language Pre-Training
 
 ## 👑 Universal Methods
 
