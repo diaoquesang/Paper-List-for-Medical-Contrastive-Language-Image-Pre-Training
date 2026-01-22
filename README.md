@@ -38,6 +38,6 @@
 
 ### [arXiv 2024 Merlin] [Merlin: A Vision Language Foundation Model for 3D Computed Tomography](https://arxiv.org/abs/2406.06512)
 
-### [ICLR 2025] [Large-scale and Fine-grained Vision-language Pre-training for Enhanced CT Image Understanding](https://arxiv.org/abs/2501.14548)
+### [ICLR 2025 fVLM] [Large-scale and Fine-grained Vision-language Pre-training for Enhanced CT Image Understanding](https://arxiv.org/abs/2501.14548)
 
-### [MedIA 2025 fVLM] [CLIP in Medical Imaging: A Survey](https://www.sciencedirect.com/science/article/abs/pii/S1361841525000982)
+### [MedIA 2025] [CLIP in Medical Imaging: A Survey](https://www.sciencedirect.com/science/article/abs/pii/S1361841525000982)
