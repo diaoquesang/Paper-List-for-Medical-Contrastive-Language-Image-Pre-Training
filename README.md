@@ -24,3 +24,10 @@
 
 ### [arXiv 2023 BiomedCLIP] [BiomedCLIP: A Multimodal Biomedical Foundation Model Pretrained from Fifteen Million Scientific Image-Text Pairs](https://arxiv.org/abs/2303.00915)
 
+### [Nature Medicine 2023 PLIP] [A Visual–Language Foundation Model for Pathology Image Analysis Using Medical Twitter](https://arxiv.org/abs/2303.00915)
+
+### [arXiv 2024 CT-CLIP] [Developing Generalist Foundation Models from a Multimodal Dataset for 3D Computed Tomography](https://arxiv.org/abs/2403.17834)
+
+### [arXiv 2024 M3D] [M3D: Advancing 3D Medical Image Analysis with Multi-Modal Large Language Models](https://arxiv.org/abs/2404.00578)
+
+### [arXiv 2024 Merlin] [Merlin: A Vision Language Foundation Model for 3D Computed Tomography](https://arxiv.org/abs/2406.06512)
