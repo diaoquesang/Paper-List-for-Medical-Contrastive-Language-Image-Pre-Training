@@ -22,5 +22,5 @@
 
 ### [EMNLP 2022 MedCLIP] [MedCLIP: Contrastive Learning from Unpaired Medical Images and Text](https://pmc.ncbi.nlm.nih.gov/articles/PMC11323634/)
 
-### [arXiv 2023 MedCLIP] [BiomedCLIP: A Multimodal Biomedical Foundation Model Pretrained from Fifteen Million Scientific Image-Text Pairs](https://arxiv.org/abs/2303.00915)
+### [arXiv 2023 BiomedCLIP] [BiomedCLIP: A Multimodal Biomedical Foundation Model Pretrained from Fifteen Million Scientific Image-Text Pairs](https://arxiv.org/abs/2303.00915)
 
