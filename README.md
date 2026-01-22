@@ -1,4 +1,6 @@
-# Paper-List-for-Medical-Contrastive-Language-Image-Pre-Training
+# Paper List for Medical Contrastive Language-Image Pre-Training
+
+## Universal Methods
 
 ### [ICML 2021 - CLIP] [Learning Transferable Visual Models from Natural Language Supervision](https://arxiv.org/abs/2103.00020)
 
@@ -31,4 +33,6 @@
 ### [arXiv 2025 SigLIP 2] [SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features](https://arxiv.org/abs/2502.14786)
 
 <img width="1112" height="985" alt="image" src="https://github.com/user-attachments/assets/4cbe7c8e-7108-417f-be11-a57095d6c1d2" />
+
+## Medical-Specific Methods
 
