@@ -37,3 +37,5 @@
 ### [arXiv 2024 M3D] [M3D: Advancing 3D Medical Image Analysis with Multi-Modal Large Language Models](https://arxiv.org/abs/2404.00578)
 
 ### [arXiv 2024 Merlin] [Merlin: A Vision Language Foundation Model for 3D Computed Tomography](https://arxiv.org/abs/2406.06512)
+
+### [MedIA 2025] [CLIP in Medical Imaging: A Survey](https://www.sciencedirect.com/science/article/abs/pii/S1361841525000982)
