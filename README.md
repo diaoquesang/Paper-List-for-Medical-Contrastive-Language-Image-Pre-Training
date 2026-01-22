@@ -1,4 +1,4 @@
-# Paper List for Medical Vision-Language Pre-Training
+# Med-VLP: Paper List for Medical Vision-Language Pre-Training
 
 ## 👑 Universal Methods
 
