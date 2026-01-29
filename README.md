@@ -20,6 +20,10 @@
 
 ### [arXiv 2025 SigLIP 2] [SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features](https://arxiv.org/abs/2502.14786)
 
+### [ICLR 2025 DIVA] [Diffusion Feedback Helps CLIP See Better](https://arxiv.org/abs/2407.20171)
+
+### [ICLR 2026 UniLiP] [UniLiP: Adapting CLIP for Unified Multimodal Understanding, Generation and Editing](https://www.arxiv.org/abs/2507.23278)
+
 ## 🧑🏻‍⚕️ Medical-Specific Methods
 
 ### [NeurIPS 2022 MGCA] [https://arxiv.org/abs/2210.06044](https://arxiv.org/abs/2210.06044)
