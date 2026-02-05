@@ -46,4 +46,6 @@
 
 ### [ICLR 2025 fVLM] [Large-Scale and Fine-Grained Vision-Language Pre-Training for Enhanced CT Image Understanding](https://arxiv.org/abs/2501.14548)
 
+### [ICLR 2025 Malenia] [Unleashing the Potential of Vision-Language Pre-Training for 3D Zero-Shot Lesion Segmentation via Mask-Attribute Alignment](https://arxiv.org/abs/2410.15744)
+
 ### [MedIA 2025] [CLIP in Medical Imaging: A Survey](https://www.sciencedirect.com/science/article/abs/pii/S1361841525000982)
