@@ -18,7 +18,7 @@
 
 ### [ICLR 2024 DFN] [Data Filtering Networks](https://arxiv.org/abs/2309.17425)
 
-### [IJCV 2024] [CLIP-Adapter: Better Vision-Language Models with Feature Adapters](https://link.springer.com/article/10.1007/s11263-023-01891-x)
+### [IJCV 2024 CLIP-Adapter] [CLIP-Adapter: Better Vision-Language Models with Feature Adapters](https://link.springer.com/article/10.1007/s11263-023-01891-x)
 
 ### [arXiv 2025 SigLIP 2] [SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features](https://arxiv.org/abs/2502.14786)
 
@@ -51,3 +51,5 @@
 ### [ICLR 2025 Malenia] [Unleashing the Potential of Vision-Language Pre-Training for 3D Zero-Shot Lesion Segmentation via Mask-Attribute Alignment](https://arxiv.org/abs/2410.15744)
 
 ### [MedIA 2025] [CLIP in Medical Imaging: A Survey](https://www.sciencedirect.com/science/article/abs/pii/S1361841525000982)
+
+### [Nature Medicine 2025 PanDerm] [A Multimodal Vision Foundation Model for Clinical Dermatology](https://www.nature.com/articles/s41591-025-03747-y)
