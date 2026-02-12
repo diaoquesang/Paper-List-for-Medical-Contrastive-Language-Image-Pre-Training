@@ -28,7 +28,7 @@
 
 ## 🧑🏻‍⚕️ Medical-Specific Methods
 
-### [NeurIPS 2022 MGCA] [https://arxiv.org/abs/2210.06044](https://arxiv.org/abs/2210.06044)
+### [NeurIPS 2022 MGCA] [Multi-Granularity Cross-modal Alignment for Generalized Medical Visual Representation Learning](https://arxiv.org/abs/2210.06044)
 
 ### [MICCAI 2022 M3AE] [Multi-Modal Masked Autoencoders for Medical Vision-and-Language Pre-Training](https://arxiv.org/abs/2209.07098)
 
