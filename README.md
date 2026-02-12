@@ -18,6 +18,8 @@
 
 ### [ICLR 2024 DFN] [Data Filtering Networks](https://arxiv.org/abs/2309.17425)
 
+### [IJCV 2024] [CLIP-Adapter: Better Vision-Language Models with Feature Adapters](https://link.springer.com/article/10.1007/s11263-023-01891-x)
+
 ### [arXiv 2025 SigLIP 2] [SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features](https://arxiv.org/abs/2502.14786)
 
 ### [ICLR 2025 DIVA] [Diffusion Feedback Helps CLIP See Better](https://arxiv.org/abs/2407.20171)
