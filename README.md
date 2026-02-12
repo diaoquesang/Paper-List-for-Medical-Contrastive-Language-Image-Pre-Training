@@ -50,6 +50,8 @@
 
 ### [ICLR 2025 Malenia] [Unleashing the Potential of Vision-Language Pre-Training for 3D Zero-Shot Lesion Segmentation via Mask-Attribute Alignment](https://arxiv.org/abs/2410.15744)
 
+### [CVPR 2025 AA-CLIP] [AA-CLIP: Enhancing Zero-Shot Anomaly Detection via Anomaly-Aware CLIP](http://openaccess.thecvf.com/content/CVPR2025/html/Ma_AA-CLIP_Enhancing_Zero-Shot_Anomaly_Detection_via_Anomaly-Aware_CLIP_CVPR_2025_paper.html)
+
 ### [MedIA 2025] [CLIP in Medical Imaging: A Survey](https://www.sciencedirect.com/science/article/abs/pii/S1361841525000982)
 
 ### [Nature Medicine 2025 PanDerm] [A Multimodal Vision Foundation Model for Clinical Dermatology](https://www.nature.com/articles/s41591-025-03747-y)
